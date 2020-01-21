@@ -1,4 +1,9 @@
 ## Html Editor
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/appsfeature/html-editor/master/screenshots/preview.png" alt="Preview 1" width="250" /> 
+</p>
+
 Replacement for Android's EditText, which allows user to input text with formatting.
 Features:
 1. Bold
@@ -23,10 +28,10 @@ allprojects {
 ```
 
 #### Dependency
-[![](https://jitpack.io/v/org.bitbucket.amitresearchdev/mcq-paid-sdk.svg)](https://jitpack.io/#org.bitbucket.amitresearchdev/mcq-paid-sdk)
+[![](https://jitpack.io/v/appsfeature/html-editor.svg)](https://jitpack.io/#appsfeature/html-editor)
 ```gradle
 dependencies {
-        implementation 'org.bitbucket.amitresearchdev:mcq-paid-sdk:x.y'
+        implementation 'com.github.appsfeature:html-editor:x.y'
 }
 ```
 #### Usage 
